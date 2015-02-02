@@ -1,2 +1,2 @@
 # AlphaPorculio
-Version en constante actualización de Porculio.
+Versión en constante actualización de Porculio.
