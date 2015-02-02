@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>772D7DA2-9FA0-4BD1-B767-D3DD980A81B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SuperKoalio</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6447D48A11DD1AFEAB40FF4D604A9E17F5324B16</key>
+		<string>https://github.com/PorculioTeam/AlphaPorculio.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SuperKoalioPt1Start/SuperKoalio.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6447D48A11DD1AFEAB40FF4D604A9E17F5324B16</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PorculioTeam/AlphaPorculio.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6447D48A11DD1AFEAB40FF4D604A9E17F5324B16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6447D48A11DD1AFEAB40FF4D604A9E17F5324B16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AlphaPorculio</string>
+		</dict>
+	</array>
+</dict>
+</plist>
